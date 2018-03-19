@@ -4,6 +4,7 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 
 ```
 .
+├── .gitignore
 ├── package.json
 ├── package-lock.json
 ├── README.md
@@ -20,6 +21,8 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 │   │   └── UserList.ts
 │   └── functions
 │       ├── _environment
+│       │   ├── .env.development
+│       │   └── .env.production
 │       ├── _helpers
 │       │   ├── Db.ts
 │       │   ├── package.json
@@ -34,6 +37,7 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 │           ├── userList.spec.ts
 │           └── userList.ts
 └── tsconfig.json
+
 ```
 
 ## Author
