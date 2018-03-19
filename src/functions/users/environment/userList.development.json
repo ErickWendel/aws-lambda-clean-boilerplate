@@ -1,0 +1,6 @@
+{
+  "Variables": {
+    "S3_BUCKET": "BUCKET_DEV",
+    "NODE_ENV": "development"
+  }
+}
