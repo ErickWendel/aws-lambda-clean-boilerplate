@@ -39,6 +39,9 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 └── tsconfig.json
 
 ```
+## Deploy
+
+```MODULE=users FUNCTION=userList npm run deploy```
 
 ## Author
 
