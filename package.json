@@ -1,7 +1,7 @@
 {
   "name": "exemplo0",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple architecture without frameworks",
   "main": "index.js",
   "aws": {
     "profile": "default",
