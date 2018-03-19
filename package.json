@@ -10,7 +10,8 @@
   },
   "scripts": {
     "deployUserList": "MODULE=users FUNCTION=userList npm run deploy",
-    "test": "npm run build && mocha src/functions/**/*spec.js --reporter=spec -w --exclude src/functions/_helpers",
+    "test":
+      "npm run build && mocha src/functions/**/*spec.js --reporter=spec -w --exclude src/functions/_helpers",
     "build": "tsc",
     "dist:cp": "bash scripts/distCp.sh",
     "dist:pack": "bash scripts/distPack.sh",
@@ -28,6 +29,7 @@
     "@types/mocha": "^2.2.48",
     "@types/mongodb": "^3.0.8",
     "mocha": "^5.0.4",
-    "@types/aws-lambda": "0.0.33"
+    "@types/aws-lambda": "0.0.33",
+    "@types/dotenv": "^4.0.2"
   }
 }
