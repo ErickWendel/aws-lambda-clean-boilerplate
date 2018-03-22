@@ -46,3 +46,7 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 ## Author
 
 [@erickwendel\_](https://twitter.com/erickwendel_)
+
+## Obs
+
+This project was based on project working together [@guilherme](https://github.com/guilhermesteves) and [horaddrim](https://github.com/horaddrim)
