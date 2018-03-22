@@ -49,4 +49,4 @@ Boilerplate base to AWS Lambda without frameworks architecture.
 
 ## Obs
 
-This project was based on project working together [@guilherme](https://github.com/guilhermesteves) and [horaddrim](https://github.com/horaddrim)
+This project was based on project working together [@guilherme](https://github.com/guilhermesteves) and [@horaddrim](https://github.com/horaddrim)
